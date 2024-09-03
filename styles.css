@@ -112,7 +112,7 @@ header{
 .card{
     border: 1px solid gray;
     border-radius: 8px;
-    padding: 20px;
+    padding: 10px;
 }
 
 .card-image{
@@ -158,3 +158,4 @@ header{
     display: flex;
     justify-content: center;
 }
+
